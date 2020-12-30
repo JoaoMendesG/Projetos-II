@@ -1,0 +1,16 @@
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\EstruturaPilha.exe
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\EstruturaPilha.deps.json
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\EstruturaPilha.runtimeconfig.json
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\EstruturaPilha.runtimeconfig.dev.json
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\EstruturaPilha.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\ref\EstruturaPilha.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\bin\Debug\net5.0\EstruturaPilha.pdb
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.csprojAssemblyReference.cache
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.AssemblyInfoInputs.cache
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.AssemblyInfo.cs
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.csproj.CoreCompileInputs.cache
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\ref\EstruturaPilha.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.pdb
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\EstruturaPilha\obj\Debug\net5.0\EstruturaPilha.genruntimeconfig.cache

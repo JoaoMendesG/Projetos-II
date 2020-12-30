@@ -1,0 +1,16 @@
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\Projetos_Alunos.exe
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\Projetos_Alunos.deps.json
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\Projetos_Alunos.runtimeconfig.json
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\Projetos_Alunos.runtimeconfig.dev.json
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\Projetos_Alunos.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\ref\Projetos_Alunos.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\bin\Debug\net5.0\Projetos_Alunos.pdb
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.csprojAssemblyReference.cache
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.AssemblyInfoInputs.cache
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.AssemblyInfo.cs
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\ref\Projetos_Alunos.dll
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.pdb
+C:\Users\fmlar\Desktop\Projetos-II\.NET + C#\Projetos_Alunos\obj\Debug\net5.0\Projetos_Alunos.genruntimeconfig.cache
