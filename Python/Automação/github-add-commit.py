@@ -5,10 +5,14 @@ import os
 diretorio = input('\nInforme o caminho do projeto/diretório:\n>>>')
 
 verificacao_diretorio = subprocess.getoutput(f'cd {diretorio}')
+print(verificacao_diretorio)
 verificacao_principal = subprocess.getoutput(f'cd {diretorio} & git status')
 
-if verificacao_principal == 'fatal: not a git repository (or any of the parent directories): .git' or verificacao_diretorio == 'O sistema não pode encontrar o caminho especificado.' or verificacao_principal == "ls: cannot open directory '.': No such file or directory":
+if verificacao_principal == 'fatal: not a git repository (or any of the parent directories): .git' or verificacao_principal == "ls: cannot open directory '.': No such file or directory":
     print('\nRepositório inválido: não é um repositório git !')
+
+elif verificacao_diretorio == 'O sistema não pode encontrar o caminho especificado.':
+    print('Diretório não existe !')
 
 else:
     mensagens_git = ['On branch master', "Your branch is up to date with 'origin/master'.", '', 'nothing to commit, working tree clean']
