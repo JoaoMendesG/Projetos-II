@@ -10,7 +10,7 @@ verificacao_principal = subprocess.getoutput(f'cd {diretorio} & git status')
 if verificacao_principal == 'fatal: not a git repository (or any of the parent directories): .git' or verificacao_principal == "ls: cannot open directory '.': No such file or directory":
     print('\nRepositório inválido: não é um repositório git !')
 
-elif verificacao_diretorio == 'O sistema não pode encontrar o caminho especificado.':
+elif verificacao_diretorio == 'O sistema não pode encontrar o caminho especificado.' or verificacao_diretorio == subprocess.getoutput('cd '):
     print('Diretório não existe !')
 
 else:
