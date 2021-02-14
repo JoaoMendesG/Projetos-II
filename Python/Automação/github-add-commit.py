@@ -6,7 +6,7 @@ diretorio = input('\nInforme o caminho do projeto/diretório:\n>>>')
 
 verificacao_principal = subprocess.getoutput(f'cd {diretorio} & git status')
 
-if verificacao_principal == 'fatal: not a git repository (or any of the parent directories): .git' or verificacao_principal == 'O sistema não pode encontrar o caminho especificado.':
+if verificacao_principal == 'fatal: not a git repository (or any of the parent directories): .git' or verificacao_principal == 'O sistema não pode encontrar o caminho especificado.' or verificacao_principal == "ls: cannot open directory '.': No such file or directory":
     print('\nRepositório inválido: não é um repositório git !')
 
 else:
