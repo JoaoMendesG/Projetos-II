@@ -1,0 +1,6 @@
+ALUNOS >>>>>> NOTAS
+Alice, 7, 9, 7, 8
+Joao, 10, 10, 1, 10
+Ricardo, 9, 6, 8, 9
+Bia, 8, 9, 10, 10
+Jose, 7, 6, 4, 4

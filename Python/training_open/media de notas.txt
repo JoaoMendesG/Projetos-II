@@ -1,0 +1,6 @@
+Aluno >>>>>> Media
+Alice : 7.75
+Joao : 7.75
+Ricardo : 8.0
+Bia : 9.25
+Jose : 5.25
